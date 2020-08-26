@@ -1,2 +1,2 @@
 # java-sample-projectscanner
-Java sample for projectscanner smokes
+Java sample project for project scanner smokes
